@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeLogic", "MergeLogic\MergeLogic.csproj", "{F1332EB3-0156-4368-B49F-BBF3B9F997DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergingTest", "MergingTest\MergingTest.csproj", "{957D97C9-A075-4A86-8B1B-9E247BE21CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1332EB3-0156-4368-B49F-BBF3B9F997DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1332EB3-0156-4368-B49F-BBF3B9F997DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1332EB3-0156-4368-B49F-BBF3B9F997DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1332EB3-0156-4368-B49F-BBF3B9F997DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957D97C9-A075-4A86-8B1B-9E247BE21CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957D97C9-A075-4A86-8B1B-9E247BE21CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957D97C9-A075-4A86-8B1B-9E247BE21CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957D97C9-A075-4A86-8B1B-9E247BE21CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5FF562-E65D-45E4-9C37-F1A0421E2BA2}
+	EndGlobalSection
+EndGlobal
